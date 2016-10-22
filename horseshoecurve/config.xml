@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryHeight="900"
+	backgroundColor="rgba(255,255,255,1)"
+	imagePadding="10"
+	captionPosition="NONE"
+	galleryFontFace="sans-serif"
+	textColor="rgba(102,102,102,1)"
+	captionBackColor="rgba(0,0,0,0)"
+	imageShadowBlur="0"
+	imageTransitionTime="0.5"
+	galleryTitle="Horseshoe Curve (8-16-2016)"
+	galleryTitlePosition="TOP"
+	buttonBarPosition="TOP"
+	textShadowColor="rgba(0,0,0,0)"
+	showOpenButton="false"
+	flickrShowDescription="true"
+	useFullscreenExpand="true"
+	imageShadowColor="rgba(0,0,0,0)"
+	thumbShadowColor="rgba(0,0,0,0)"
+	thumbDotColor="rgba(0,0,0,0)"
+	maxThumbColumns="8"
+	maxCaptionHeight="50"
+	imageTransitionType="CROSS_FADE"
+
+>
+  <image imageURL="images/P1030182.jpg"
+	thumbURL="thumbs/P1030182.jpg"
+	linkURL="images/P1030182.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030182.JPG">
+    <title><![CDATA[P1030182]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030184.jpg"
+	thumbURL="thumbs/P1030184.jpg"
+	linkURL="images/P1030184.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030184.JPG">
+    <title><![CDATA[P1030184]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030193.jpg"
+	thumbURL="thumbs/P1030193.jpg"
+	linkURL="images/P1030193.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030193.JPG">
+    <title><![CDATA[P1030193]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030197.jpg"
+	thumbURL="thumbs/P1030197.jpg"
+	linkURL="images/P1030197.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030197.JPG">
+    <title><![CDATA[P1030197]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030204.jpg"
+	thumbURL="thumbs/P1030204.jpg"
+	linkURL="images/P1030204.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030204.JPG">
+    <title><![CDATA[P1030204]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030208.jpg"
+	thumbURL="thumbs/P1030208.jpg"
+	linkURL="images/P1030208.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030208.JPG">
+    <title><![CDATA[P1030208]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030214.jpg"
+	thumbURL="thumbs/P1030214.jpg"
+	linkURL="images/P1030214.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030214.JPG">
+    <title><![CDATA[P1030214]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030219.jpg"
+	thumbURL="thumbs/P1030219.jpg"
+	linkURL="images/P1030219.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030219.JPG">
+    <title><![CDATA[P1030219]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030226.jpg"
+	thumbURL="thumbs/P1030226.jpg"
+	linkURL="images/P1030226.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030226.JPG">
+    <title><![CDATA[P1030226]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030232.jpg"
+	thumbURL="thumbs/P1030232.jpg"
+	linkURL="images/P1030232.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030232.JPG">
+    <title><![CDATA[P1030232]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1030240.jpg"
+	thumbURL="thumbs/P1030240.jpg"
+	linkURL="images/P1030240.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\Horseshoe Curve 8-16-16\P1030240.JPG">
+    <title><![CDATA[P1030240]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
