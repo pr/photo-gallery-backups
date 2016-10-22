@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryHeight="900"
+	backgroundColor="rgba(238,238,238,1)"
+	imagePadding="10"
+	captionPosition="NONE"
+	galleryFontFace="sans-serif"
+	textColor="rgba(102,102,102,1)"
+	captionBackColor="rgba(0,0,0,0)"
+	imageShadowBlur="0"
+	imageTransitionTime="0.5"
+	galleryTitle="SS John W. Brown"
+	galleryTitlePosition="TOP"
+	buttonBarPosition="TOP"
+	textShadowColor="rgba(0,0,0,0)"
+	showOpenButton="false"
+	flickrShowDescription="true"
+	useFullscreenExpand="true"
+	imageShadowColor="rgba(0,0,0,0)"
+	thumbShadowColor="rgba(0,0,0,0)"
+	thumbDotColor="rgba(0,0,0,0)"
+	maxThumbColumns="8"
+	maxCaptionHeight="50"
+	imageTransitionType="CROSS_FADE"
+	backButtonPosition="NONE"
+	backButtonUseIcon="true"
+	showSmallBackButton="false"
+	maxImageWidth="2048"
+	maxImageHeight="1536"
+	imageQuality="90"
+
+>
+  <image imageURL="images/20160917_150648.jpg"
+	thumbURL="thumbs/20160917_150648.jpg"
+	linkURL="images/20160917_150648.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_150648.jpg">
+    <title><![CDATA[20160917_150648]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_150708.jpg"
+	thumbURL="thumbs/20160917_150708.jpg"
+	linkURL="images/20160917_150708.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_150708.jpg">
+    <title><![CDATA[20160917_150708]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_151014.jpg"
+	thumbURL="thumbs/20160917_151014.jpg"
+	linkURL="images/20160917_151014.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_151014.jpg">
+    <title><![CDATA[20160917_151014]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_151029.jpg"
+	thumbURL="thumbs/20160917_151029.jpg"
+	linkURL="images/20160917_151029.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_151029.jpg">
+    <title><![CDATA[20160917_151029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_151433.jpg"
+	thumbURL="thumbs/20160917_151433.jpg"
+	linkURL="images/20160917_151433.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_151433.jpg">
+    <title><![CDATA[20160917_151433]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_151435.jpg"
+	thumbURL="thumbs/20160917_151435.jpg"
+	linkURL="images/20160917_151435.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_151435.jpg">
+    <title><![CDATA[20160917_151435]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_151755.jpg"
+	thumbURL="thumbs/20160917_151755.jpg"
+	linkURL="images/20160917_151755.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_151755.jpg">
+    <title><![CDATA[20160917_151755]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_151952.jpg"
+	thumbURL="thumbs/20160917_151952.jpg"
+	linkURL="images/20160917_151952.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_151952.jpg">
+    <title><![CDATA[20160917_151952]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_152158.jpg"
+	thumbURL="thumbs/20160917_152158.jpg"
+	linkURL="images/20160917_152158.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_152158.jpg">
+    <title><![CDATA[20160917_152158]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_153501.jpg"
+	thumbURL="thumbs/20160917_153501.jpg"
+	linkURL="images/20160917_153501.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_153501.jpg">
+    <title><![CDATA[20160917_153501]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_153526.jpg"
+	thumbURL="thumbs/20160917_153526.jpg"
+	linkURL="images/20160917_153526.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_153526.jpg">
+    <title><![CDATA[20160917_153526]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_153740.jpg"
+	thumbURL="thumbs/20160917_153740.jpg"
+	linkURL="images/20160917_153740.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_153740.jpg">
+    <title><![CDATA[20160917_153740]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_153837.jpg"
+	thumbURL="thumbs/20160917_153837.jpg"
+	linkURL="images/20160917_153837.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_153837.jpg">
+    <title><![CDATA[20160917_153837]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_154731.jpg"
+	thumbURL="thumbs/20160917_154731.jpg"
+	linkURL="images/20160917_154731.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_154731.jpg">
+    <title><![CDATA[20160917_154731]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_154926.jpg"
+	thumbURL="thumbs/20160917_154926.jpg"
+	linkURL="images/20160917_154926.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_154926.jpg">
+    <title><![CDATA[20160917_154926]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_155329.jpg"
+	thumbURL="thumbs/20160917_155329.jpg"
+	linkURL="images/20160917_155329.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_155329.jpg">
+    <title><![CDATA[20160917_155329]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_155634.jpg"
+	thumbURL="thumbs/20160917_155634.jpg"
+	linkURL="images/20160917_155634.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_155634.jpg">
+    <title><![CDATA[20160917_155634]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_162917.jpg"
+	thumbURL="thumbs/20160917_162917.jpg"
+	linkURL="images/20160917_162917.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_162917.jpg">
+    <title><![CDATA[20160917_162917]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160917_162949.jpg"
+	thumbURL="thumbs/20160917_162949.jpg"
+	linkURL="images/20160917_162949.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Peter\Desktop\SS John W Brown 9-17-2016\20160917_162949.jpg">
+    <title><![CDATA[20160917_162949]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
